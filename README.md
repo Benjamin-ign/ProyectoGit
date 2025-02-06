@@ -21,9 +21,9 @@ negrita:
 
 Codigo:
 
-'''[language]
+```[Languaje]
 codigo en varias lineas
-'''
+```
 
 * primer elemento
 * segundo elemento
